@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gru
+  - bot
+  - botplayer
+  - wall
+  - build1
+  - build2
+  - build3
+  - build4
+  - build5
+  - build6
+  - build7
+  - buildgas1
+  - buildgas2
+  - buildgas3
+  - fire
+  - rain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - c1
+  - c2
+  - c3
+  - c4
+  - c5
+  - c6
+  - c7
+  - b1
+  - b2
+  - b3
+  - b4
+  - b5
+  - b6
+  - b7
+  - fire
+  - rain
+  - zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
